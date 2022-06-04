@@ -9,5 +9,8 @@ package martinserranodaponte_ii;
  * @author Julián
  */
 public class Daponte {
-    
+    static void ImprimeMensaje(){
+        String mensaje = "Esta es la clase Daponte y muestra este mensaje";
+        System.out.println(mensaje);
+    }
 }
